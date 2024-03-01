@@ -1,0 +1,7 @@
+C:\Users\proff\RiderProjects\Logging\Logging\bin\Debug\Logging.exe
+C:\Users\proff\RiderProjects\Logging\Logging\bin\Debug\Logging.pdb
+C:\Users\proff\RiderProjects\Logging\Logging\obj\Debug\Logging.csproj.AssemblyReference.cache
+C:\Users\proff\RiderProjects\Logging\Logging\obj\Debug\Logging.csproj.SuggestedBindingRedirects.cache
+C:\Users\proff\RiderProjects\Logging\Logging\obj\Debug\Logging.csproj.CoreCompileInputs.cache
+C:\Users\proff\RiderProjects\Logging\Logging\obj\Debug\Logging.exe
+C:\Users\proff\RiderProjects\Logging\Logging\obj\Debug\Logging.pdb
